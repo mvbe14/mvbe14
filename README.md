@@ -1,4 +1,4 @@
-## MAZUR VITALII
+## VITALII MAZUR
 
 Full Stack Dev
 Interested in Java, Python, JS, C, C++.
