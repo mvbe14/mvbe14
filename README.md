@@ -4,7 +4,6 @@
 
 <p>a little bit of green, and a lot of love</p>
 
-<img src="./assets/banner2.jpg" width="500">
 
 ### about me
 
