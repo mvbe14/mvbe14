@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=mvbe14&color=5d4b00&label=&style=flat-square)
-
 <div align="center">
 
 <img src="./assets/banner.jpg" width="100%">
@@ -18,6 +16,7 @@
 </div>
 
 ---
+<div align="center">
 ### github stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=mvbe14&show_icons=true&theme=gruvbox&hide_border=true" />
