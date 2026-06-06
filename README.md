@@ -1,12 +1,7 @@
-## VITALII MAZUR
+<div align="center">
 
-Full Stack Dev
-Interested in Java, Python, JS, C, C++.
+<img src="./assets/rainbanner" width="100%">
 
-Currently working on upgrade my tech
+<p>coding, music and rainy evenings</p>
 
-
-
-## Kitty Lover 
-<img width="733" height="975" alt="image" src="https://github.com/user-attachments/assets/16915682-999b-4e70-86e8-b0318a2006e7" />
-
+</div>
