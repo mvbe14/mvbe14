@@ -19,8 +19,6 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mvbe14&show_icons=true&theme=gruvbox&hide_border=true" />
 
-<br><br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mvbe14&theme=gruvbox&hide_border=true" />
 
 </div>
