@@ -3,7 +3,7 @@
 <img src="./assets/banner.jpg" width="100%">
 <p>a little bit of green, and a lot of love</p>
 
-<img src="./assets/banner2.jpg" with="100%">
+<img src="./assets/banner2.jpg" with="50%">
 
 ### about me
 
