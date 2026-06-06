@@ -1,9 +1,10 @@
 <div align="center">
 
 <img src="./assets/banner.jpg" width="100%">
+
 <p>a little bit of green, and a lot of love</p>
 
-<img src="./assets/banner2.jpg" with="50%">
+<img src="./assets/banner2.jpg" width="500">
 
 ### about me
 
@@ -16,6 +17,7 @@
 </div>
 
 ---
+
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mvbe14&theme=gruvbox&hide_border=true" />
