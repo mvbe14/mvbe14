@@ -17,9 +17,3 @@
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mvbe14&theme=gruvbox&hide_border=true" />
-
-</div>
